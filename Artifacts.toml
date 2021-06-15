@@ -1,91 +1,91 @@
 [[UBPF]]
 arch = "aarch64"
-git-tree-sha1 = "b23f1d1ff42754ea760789c8820598d14a714d2b"
+git-tree-sha1 = "e8180975ac92fa266a487ae69e5c730e6ed069bb"
 libc = "glibc"
 os = "linux"
 
     [[UBPF.download]]
-    sha256 = "c84ae86b10b9f6597d4f381c7b8e3f21abf2556fb0f09f6e85b845478a75fa23"
-    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.1+0/UBPF.v0.0.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "fa3fdad51052842b4bb920b3ea02db12e6e426b29091f8038ff491902c82941e"
+    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.2+0/UBPF.v0.0.2.aarch64-linux-gnu.tar.gz"
 [[UBPF]]
 arch = "aarch64"
-git-tree-sha1 = "b1e2250c2122ef0f0ffdd7a302f394786b126261"
+git-tree-sha1 = "030cf8f988ec644fabbb7fc087cfc6e63006618b"
 libc = "musl"
 os = "linux"
 
     [[UBPF.download]]
-    sha256 = "c3935b3a354b4dc8acb687536e47c13179f5635e9230b8e677fd123de7f97185"
-    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.1+0/UBPF.v0.0.1.aarch64-linux-musl.tar.gz"
+    sha256 = "c0cde0ec68687d0e95de6f42de21bcaf9a6c962c3f1e0a259adcb8e56f89409d"
+    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.2+0/UBPF.v0.0.2.aarch64-linux-musl.tar.gz"
 [[UBPF]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "ec3a48fc94a9d6bb29c48184984fedbfcf133dc5"
+git-tree-sha1 = "9d7cf7dbe691a1ed1647105411a555f56536c641"
 libc = "glibc"
 os = "linux"
 
     [[UBPF.download]]
-    sha256 = "cc25f33475871ee73eeafeab9688129d14f3d4b43f41babb57b928c5a6eebc40"
-    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.1+0/UBPF.v0.0.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "d24a1b9d2c9104091cf53bef2c0ef814ecae609c868a709f41b33e3698ca1444"
+    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.2+0/UBPF.v0.0.2.armv7l-linux-gnueabihf.tar.gz"
 [[UBPF]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4bdae2acc7a29f4aa50fe381d9e231d35ca815ea"
+git-tree-sha1 = "dac9746dfa0dd1bd386270a65761ac21a33c6b2e"
 libc = "musl"
 os = "linux"
 
     [[UBPF.download]]
-    sha256 = "b25924db5e3e63c1284febe161309694929f33ae6e8048bf724a2e6e1152bf36"
-    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.1+0/UBPF.v0.0.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "a355de8242e470683c18f9dc09b104690ff6df9eccc049bee4c2c67ca974f65a"
+    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.2+0/UBPF.v0.0.2.armv7l-linux-musleabihf.tar.gz"
 [[UBPF]]
 arch = "i686"
-git-tree-sha1 = "6921e87261aae986eb9f11ea6860de2c12c08184"
+git-tree-sha1 = "7f4f1fd8ea964d89f7d16da4b17c19bf811cc544"
 libc = "glibc"
 os = "linux"
 
     [[UBPF.download]]
-    sha256 = "7920a0008102a5ade8cab43783ac302f15ef204b81ce51bd7898c8dcd3958c30"
-    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.1+0/UBPF.v0.0.1.i686-linux-gnu.tar.gz"
+    sha256 = "0294bca9cda81a49d0d4028b3813aeab07e721661e1ce47a9e2b5dac45dbae6c"
+    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.2+0/UBPF.v0.0.2.i686-linux-gnu.tar.gz"
 [[UBPF]]
 arch = "i686"
-git-tree-sha1 = "b4354fc85059802b40a896135c4fd6c00693ba8a"
+git-tree-sha1 = "9f6639455bf2a89902f36966b41315f088be0bac"
 libc = "musl"
 os = "linux"
 
     [[UBPF.download]]
-    sha256 = "f24a60f93a65cc2436c39df47162795f9af1eee4e9fee7847a10c2138fb9e52d"
-    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.1+0/UBPF.v0.0.1.i686-linux-musl.tar.gz"
+    sha256 = "6d67869904397eb324ad022dec4871227031fb810ca9fe539126dd446a171581"
+    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.2+0/UBPF.v0.0.2.i686-linux-musl.tar.gz"
 [[UBPF]]
 arch = "powerpc64le"
-git-tree-sha1 = "62a91592fcb78ae93746c32cb11c84159cc34079"
+git-tree-sha1 = "41b85fa73258700d16a8fd74b0ef4c5a991ad917"
 libc = "glibc"
 os = "linux"
 
     [[UBPF.download]]
-    sha256 = "e9dbed8169f5cdb02ee25cbc5af1bf8d82b071817ad4e4a1c67f0fc300c66b25"
-    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.1+0/UBPF.v0.0.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "e784b1c9ba50354f1f8a293238bf6deb6159b5b06d5da68c84e85c935c34fdf4"
+    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.2+0/UBPF.v0.0.2.powerpc64le-linux-gnu.tar.gz"
 [[UBPF]]
 arch = "x86_64"
-git-tree-sha1 = "b693e0fe21e88954f67856451ac64b33f8db1f18"
+git-tree-sha1 = "208cec5ea00fe09348d43a27a19199a5fad61d17"
 libc = "glibc"
 os = "linux"
 
     [[UBPF.download]]
-    sha256 = "115334d243d25228a5c6d8887388f70981949b4704e625c29c5b0b2afc9fc0a5"
-    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.1+0/UBPF.v0.0.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "e0f3f39b8ad94351700b846ee33c8b1a47751881e5ec2114b25eb4f445076dfe"
+    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.2+0/UBPF.v0.0.2.x86_64-linux-gnu.tar.gz"
 [[UBPF]]
 arch = "x86_64"
-git-tree-sha1 = "ff582729de7a8adf1c3ee0cd444a4f7783fd2c21"
+git-tree-sha1 = "255e13232a83b9bde15a6b07264a4957b0e3e921"
 libc = "musl"
 os = "linux"
 
     [[UBPF.download]]
-    sha256 = "ab62dec41af99f469a66fc133ac3774999f032491809488dafe18a1a68a20009"
-    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.1+0/UBPF.v0.0.1.x86_64-linux-musl.tar.gz"
+    sha256 = "17ece2f55999cf9ca1c017e7f6ad4aa3694c005f0b77834855500a3d0891259b"
+    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.2+0/UBPF.v0.0.2.x86_64-linux-musl.tar.gz"
 [[UBPF]]
 arch = "x86_64"
-git-tree-sha1 = "23872d7d63afa9dcbae383b5a34686754300ecbc"
+git-tree-sha1 = "1a10522275b34823a7ec8701cdaaf75f620c529f"
 os = "freebsd"
 
     [[UBPF.download]]
-    sha256 = "71bb194a1088eccbbb80f504a5f5aa60da77e1fc3624cb36523525653913bc64"
-    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.1+0/UBPF.v0.0.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "6227ff2e15d54871a6ad3b2682b84adb4687f227294940003ef48aae1ea340ef"
+    url = "https://github.com/JuliaBinaryWrappers/UBPF_jll.jl/releases/download/UBPF-v0.0.2+0/UBPF.v0.0.2.x86_64-unknown-freebsd.tar.gz"
